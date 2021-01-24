@@ -1,0 +1,26 @@
+<annotation>
+	<folder>forObjDet</folder>
+	<filename>m01_2147_-0.0000_-0.0000.jpg</filename>
+	<path>C:\Users\Alexander\Documents\faces\New\segmentation\imageSegObjDet\data\images\train\m01_2147_-0.0000_-0.0000.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+    <object>
+		<name>pupil</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>158</xmin>
+			<ymin>132</ymin>
+			<xmax>197</xmax>
+			<ymax>171</ymax>
+		</bndbox>
+	</object>
+</annotation>
